@@ -1,0 +1,12 @@
+{
+  "benchmark_id": "ASB04_004023",
+  "label": 1,
+  "source_ids": [
+    "SRC013"
+  ],
+  "attack_categories": [
+    "Execution / Code Delivery",
+    "Integrity / Output Manipulation"
+  ],
+  "text_redacted": true
+}

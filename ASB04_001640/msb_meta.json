@@ -1,0 +1,13 @@
+{
+  "benchmark_id": "ASB04_001640",
+  "label": 1,
+  "source_ids": [
+    "SRC001",
+    "SRC004"
+  ],
+  "attack_categories": [
+    "Data Exfiltration / Disclosure",
+    "Execution / Code Delivery"
+  ],
+  "text_redacted": false
+}
